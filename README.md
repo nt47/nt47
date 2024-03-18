@@ -9,9 +9,6 @@
 
 ![](https://img.shields.io/badge/ASM-%FF.svg?style=for-the-badge&logo=0&logoColor=white) ![](https://img.shields.io/badge/c-%FF.svg?style=for-the-badge&logo=0&logoColor=white) ![](https://img.shields.io/badge/c++-%FF.svg?style=for-the-badge&logo=0&logoColor=white)  ![](https://img.shields.io/badge/.NET-%FF.svg?style=for-the-badge&logo=0&logoColor=white) ![](https://img.shields.io/badge/Py-%FF.svg?style=for-the-badge&logo=0&logoColor=white) ![](https://img.shields.io/badge/js-%FF.svg?style=for-the-badge&logo=0&logoColor=white)
 
-没用过MacOS，太贵，等个人教怎么用😊
-
-暂时写到这里，以后再改
 
 <br>
 
@@ -26,4 +23,4 @@
 
 <br>
 
-[![](https://komarev.com/ghpvc/?username=nthack&style=for-the-badge&label=Visitor+count&color=orange)](https://github.com/antonkomarev/github-profile-views-counter)
+[![](https://komarev.com/ghpvc/?username=nt47&style=for-the-badge&label=Visitor+count&color=orange)](https://github.com/antonkomarev/github-profile-views-counter)
